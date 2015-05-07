@@ -17,10 +17,10 @@
           "help": {
             "online": "http://community.hexbright.com/Answers"
           },
-          "url": "https://raw.githubusercontent.com/EagleWorks/hexbright/master/hexbright_boarddef.zip",
-          "archiveFileName": "hexbright_boarddef.zip",
-          "checksum": "SHA-256:dfa0a670f1704cd05e9aa4d76097e43eb113dae21e64a288b4126e991c1d95a7",
-          "size": "12842",
+          "url": "https://raw.githubusercontent.com/EagleWorks/hexbright/master/hexbright-hardware.zip",
+          "archiveFileName": "hexbright-hardware.zip",
+          "checksum": "SHA-256:bbf10dc0fdec120e55c71b281e689f6cd66658e27a425860ed8f221c4b164727",
+          "size": "13146",
           "boards": [
             {"name": "HexBright"}
           ],
