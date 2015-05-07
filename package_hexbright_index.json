@@ -19,7 +19,7 @@
           },
           "url": "https://raw.githubusercontent.com/EagleWorks/hexbright/master/hexbright_boarddef.zip",
           "archiveFileName": "hexbright_boarddef.zip",
-          "checksum": "SHA-256:ae8b21b4a7e4fc2447d584a85d60b5fdf799bbc5867bb1778d835866915384ce",
+          "checksum": "SHA-256:dfa0a670f1704cd05e9aa4d76097e43eb113dae21e64a288b4126e991c1d95a7",
           "size": "12842",
           "boards": [
             {"name": "HexBright"}
